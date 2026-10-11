@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terms of Service - DIGITAL_INGINIYA_3</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+      max-width: 850px;
+      margin: auto;
+      padding: 20px;
+      color: #222;
+    }
+    h1, h2 { color: #6b3fa0; }
+  </style>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p><strong>App:</strong> DIGITAL_INGINIYA_3</p>
+  <p><strong>Effective Date:</strong> October 10, 2026</p>
+
+  <h2>1. Acceptance of Terms</h2>
+  <p>
+    By using DIGITAL_INGINIYA_3, you agree to these Terms of Service
+    and our Privacy Policy.
+  </p>
+
+  <h2>2. Marketplace Services</h2>
+  <p>
+    The application provides marketplace features for discovering
+    or listing products and services. Users are responsible for the
+    accuracy and legality of their listings.
+  </p>
+
+  <h2>3. User Responsibilities</h2>
+  <p>
+    Users must not engage in fraud, impersonation, unlawful activity,
+    abusive conduct, or attempts to compromise application security.
+  </p>
+
+  <h2>4. Payments and Pi Network</h2>
+  <p>
+    If Pi Network or another payment provider is supported, transactions
+    may also be subject to that provider's terms and requirements.
+    Check payment details carefully before confirming a transaction.
+  </p>
+  <p>
+    Never provide your wallet passphrase or private keys to the app
+    or to another user.
+  </p>
+
+  <h2>5. Products and Transactions</h2>
+  <p>
+    Buyers and sellers should confirm product details, pricing,
+    delivery arrangements, and refund terms before completing a deal.
+    The app does not guarantee every user listing or transaction.
+  </p>
+
+  <h2>6. Intellectual Property</h2>
+  <p>
+    Application branding, design, software, and original content
+    may be protected by intellectual property laws. Users must have
+    permission to upload content they do not own.
+  </p>
+
+  <h2>7. Suspension</h2>
+  <p>
+    We may restrict access when reasonably necessary to address
+    security issues, suspected fraud, or violations of these Terms.
+  </p>
+
+  <h2>8. Disclaimer</h2>
+  <p>
+    The application is provided on an as-available basis, subject
+    to rights and warranties that cannot legally be excluded.
+  </p>
+
+  <h2>9. Changes to Terms</h2>
+  <p>
+    We may update these Terms as the application develops.
+    Revised Terms will be published on this page.
+  </p>
+
+  <h2>10. Contact</h2>
+  <p>Email: YOUR-SUPPORT-EMAIL@example.com</p>
+
+  <p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
