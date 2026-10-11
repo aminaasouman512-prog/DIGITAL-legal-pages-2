@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - DIGITAL_INGINIYA_3</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+      max-width: 850px;
+      margin: auto;
+      padding: 20px;
+      color: #222;
+    }
+    h1, h2 { color: #6b3fa0; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>App:</strong> DIGITAL_INGINIYA_3</p>
+  <p><strong>Effective Date:</strong> October 10, 2026</p>
+
+  <h2>1. Introduction</h2>
+  <p>
+    DIGITAL_INGINIYA_3 respects your privacy. This policy explains
+    how information may be collected, used, stored, and protected
+    when you use our marketplace.
+  </p>
+
+  <h2>2. Information We Collect</h2>
+  <p>
+    Depending on the features you use, we may process account details,
+    contact information, product listings, support messages, and
+    technical information needed to operate and secure the application.
+  </p>
+
+  <h2>3. How We Use Information</h2>
+  <p>
+    Information may be used to provide marketplace services, support
+    users, verify transactions, prevent fraud, improve security,
+    and maintain the application.
+  </p>
+
+  <h2>4. Pi Network and Payments</h2>
+  <p>
+    If Pi Network or a third-party payment service is integrated,
+    that service may process information under its own privacy policy.
+    Transaction details may be processed to verify payments.
+  </p>
+  <p>
+    Never share your Pi Wallet passphrase or private keys with us.
+    The application should never request them.
+  </p>
+
+  <h2>5. Sharing Information</h2>
+  <p>
+    Information may be shared with hosting providers, payment
+    services, or authorities when legally required. Public information
+    you post may be visible to other users.
+  </p>
+
+  <h2>6. Security and Retention</h2>
+  <p>
+    We use reasonable measures to protect information and retain it
+    only as long as reasonably necessary. No online service can
+    guarantee absolute security.
+  </p>
+
+  <h2>7. Your Privacy Rights</h2>
+  <p>
+    Depending on applicable law, you may request access, correction,
+    or deletion of your personal information by contacting us.
+  </p>
+
+  <h2>8. Third-Party Services</h2>
+  <p>
+    External websites and services have their own privacy policies.
+    Please review those policies before using their services.
+  </p>
+
+  <h2>9. Policy Updates</h2>
+  <p>
+    We may update this policy when our application or legal
+    requirements change. Updates will be published on this page.
+  </p>
+
+  <h2>10. Contact Us</h2>
+  <p>Email: YOUR-SUPPORT-EMAIL@example.com</p>
+
+  <p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
